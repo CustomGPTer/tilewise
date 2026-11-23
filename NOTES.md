@@ -1,7 +1,8 @@
-Tilewise 1.0.2
+Tilewise 1.0.3
 
-- Dragging a tile: the tile now floats well above your fingertip, so your finger no longer hides it or the square it's going to. It lands on the highlighted square under the tile. The same goes for the browser game.
-- Turn timer in Settings (off unless you switch it on): 30 seconds, 1, 2 or 3 minutes a turn. Run out of time and the turn is lost and play moves on. It's the same setting as Move timer in a new game's rules.
-- The timer runs round the edge of the player's card, draining from green to amber to red, and the card pulses red for the last ten seconds. Nothing covers the board.
+- End game now asks what to do. Count it: the game is scored as it stands the official way (each player loses the points on the tiles left in their rack), the winner is shown and it goes into your stats. Don't count it: the game stops and is left out of the stats.
+- The results screen has a See your stats button.
+- A stuck game ends by itself: after six turns in a row with no score, whatever the number of players, or straight away when the bag is empty and no one can make a word.
+- Games across phones: both phones need 1.0.3.
 
 Android 8 or later. Installs over earlier versions and keeps your games, stats and settings. No adverts, nothing to buy and no account. Never contacts the internet.
